@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.waterpolostats"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.waterpolostats.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.waterpolostats.Liga"
+            android:label="@string/title_activity_liga"
+            android:parentActivityName="com.example.waterpolostats.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.waterpolostats.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.waterpolostats.Gra"
+            android:label="@string/title_activity_gra"
+            android:parentActivityName="com.example.waterpolostats.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.waterpolostats.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.waterpolostats.Zaw"
+            android:label="@string/title_activity_zaw"
+            android:parentActivityName="com.example.waterpolostats.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.waterpolostats.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.waterpolostats.Druz"
+            android:label="@string/title_activity_druz"
+            android:parentActivityName="com.example.waterpolostats.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.waterpolostats.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.waterpolostats.Stats"
+            android:label="@string/title_activity_stats"
+            android:parentActivityName="com.example.waterpolostats.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.waterpolostats.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.waterpolostats.Sugestia"
+            android:label="@string/title_activity_sugestia" >
+        </activity>
+    </application>
+
+</manifest>

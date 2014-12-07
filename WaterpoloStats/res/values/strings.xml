@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Waterpolo Stats</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rozegraj"> Rozegraj grę</string>
+    <string name="gol"> Gol</string>
+    <string name="kwarta"> Następna kwarta</string>
+    <string name="dodaj_dr">Dodaj/Usuń drużynę</string>
+    <string name="dodaj_zaw"> Dodaj/Usuń zawodnika</string>
+    <string name="dodaj_lige"> Dodaj/Usuń ligę</string>
+    <string name="przegladaj"> Przegladaj statystyki</string>
+    <string name="title_activity_liga">Liga</string>
+    <string name="title_activity_gra">Gra</string>
+    <string name="title_activity_zaw">Zaw</string>
+    <string name="sugeruj"> Sugeruj skład</string>
+    <string name="title_activity_druz">Druz</string>
+    <string name="title_activity_stats">Stats</string>
+    <string name="title_activity_sugestia">Sugestia</string>
+    <string name="liga_nazwa"> Podaj nazwę ligi</string>
+    <string name="liga_ed"> Dodaj edycję ligi</string>
+    <string name="liga_rok"> Podaj rok, w którym odbywa się liga</string>
+    
+    <string name="liga_kat"> Podaj kategorię wiekową</string>
+    <string name="liga_wyb"> Wybierz ligę </string>
+    
+    <string name="dr_nazwa"> Podaj nazwę drużyny</string>
+    
+    <string name="zaw_im"> Imię zawodnika: </string>
+    <string name="zaw_nazw"> Nazwisko zawodnika: </string>
+    <string name="zaw_dane"> Dane zawodnika: </string>
+    <string name="zaw_rok"> Rok </string>
+    <string name="kat_wiek">Kategoria wiekowa w tej ed.</string>
+    <string name="imie"> Imie</string>
+    <string name ="nazwisko"> Nazwisko</string>
+    
+    <string name="zaw_ed"> Wybierz edycję</string>
+    
+    
+    <string name="kolor"> Wybierz kolor drużyny</string>
+    <string name="strz"> Wybierz strzelającego</string>
+    <string name="wyb_dr"> Wybierz drużynę</string>
+	<string name="sug"> Sugeruj </string>
+	<string name="dodaj"> Dodaj </string>
+	<string name="hint_liga"> np. Juniorzy</string>
+	
+	<string name="usun"> Usuń </string>
+	<string name="hint_kat"> Kat. wiekowa, np. 96</string>
+	<string name="hint_rok"> Rok, np. 2014</string>
+	<string name="hint_dr"> Tu wpisz nazwe</string>
+	
+	<string name="dr_usun"> Lista możliwych do usunięcia: </string>
+	
+	<string name="kon"> Koniec Gry</string>
+	
+	<string name="ls"> Lewe skrzydło</string>
+	<string name="ps"> Prawe skrzydło</string>
+	<string name="sr"> Dobijak</string>
+	<string name="lp"> Lewe półskrzydło</string>
+	<string name="pp"> Prawe półskrzydło</string>
+	<string name="st"> Srodek tył</string>
+	<string name="wp"> Własna połowa</string>
+	
+	<string name="nieb"> Niebieski</string>
+	<string name="bi"> Biały</string>
+	<string name="gl"> Gol </string>
+	<string name="pudlo"> Pudło </string>
+	
+	<string name="naj"> Osoby najlepsze na danej pozycji</string>
+	<string name="najl"> Najlepsi</string>
+	<string name="gen"> Generuj</string>
+	<string name="nikt"> Jeszcze nikt</string>
+    
+
+</resources>
